@@ -1,0 +1,46 @@
+{
+  "name": "@ii887522/node-app-template",
+  "version": "0.0.0",
+  "description": "A template used to build a Node.js application in TypeScript without worrying about project configuration anymore.",
+  "bin": "out/index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint --ext .ts .",
+    "lint:watch": "esw --ext .ts --watch .",
+    "build": "tsc --build",
+    "build:watch": "tsc --build --watch",
+    "start": "node out/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ii887522/node-app-template.git"
+  },
+  "keywords": [],
+  "author": "ii887522",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ii887522/node-app-template/issues"
+  },
+  "homepage": "https://github.com/ii887522/node-app-template#readme",
+  "ts-standard": {
+    "ignore": [
+      "**/*.js"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "@typescript-eslint/eslint-plugin": "5.38.1",
+    "@typescript-eslint/parser": "5.38.1",
+    "eslint": "8.24.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-config-standard-with-typescript": "23.0.0",
+    "eslint-plugin-eslint-comments": "3.2.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-n": "15.3.0",
+    "eslint-plugin-promise": "6.0.1",
+    "eslint-watch": "8.0.0",
+    "prettier": "2.7.1",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {}
+}
