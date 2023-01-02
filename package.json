@@ -22,11 +22,6 @@
     "url": "https://github.com/ii887522/node-app-template/issues"
   },
   "homepage": "https://github.com/ii887522/node-app-template#readme",
-  "ts-standard": {
-    "ignore": [
-      "**/*.js"
-    ]
-  },
   "devDependencies": {
     "@types/node": "^18.7.23",
     "@typescript-eslint/eslint-plugin": "5.38.1",
