@@ -14,13 +14,13 @@ A template used to build a Node.js application in TypeScript without worrying ab
 
 ## Table of Contents
 
-- [Usage](https://github.com/ii887522/node-app-template#usage)
-- [Prerequisites](https://github.com/ii887522/node-app-template#prerequisites)
-- [Install dependencies](https://github.com/ii887522/node-app-template#install-dependencies)
-- [Lint the project](https://github.com/ii887522/node-app-template#lint-the-project)
-- [Build the project](https://github.com/ii887522/node-app-template#build-the-project)
-- [Automatically build the project on save](https://github.com/ii887522/node-app-template#automatically-build-the-project-on-save)
-- [Start the project](https://github.com/ii887522/node-app-template#start-the-project)
+- [Usage](#usage)
+- [Prerequisites](#prerequisites)
+- [Install dependencies](#install-dependencies)
+- [Lint the project](#lint-the-project)
+- [Build the project](#build-the-project)
+- [Automatically build the project on save](#automatically-build-the-project-on-save)
+- [Start the project](#start-the-project)
 
 ## Usage
 
